@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _3.TaskQuiz
-build_property.ProjectDir = C:\Users\ASUS\source\repos\3.TaskQuiz\3.TaskQuiz\
+build_property.ProjectDir = C:\Users\ASUS\Desktop\3.TaskQuiz\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
