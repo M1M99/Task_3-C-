@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\3.TaskQuiz\3.TaskQuiz\bin\Debug\net8.0\3.TaskQuiz.exe
+C:\Users\ASUS\source\repos\3.TaskQuiz\3.TaskQuiz\bin\Debug\net8.0\3.TaskQuiz.deps.json
+C:\Users\ASUS\source\repos\3.TaskQuiz\3.TaskQuiz\bin\Debug\net8.0\3.TaskQuiz.runtimeconfig.json
+C:\Users\ASUS\source\repos\3.TaskQuiz\3.TaskQuiz\bin\Debug\net8.0\3.TaskQuiz.dll
+C:\Users\ASUS\source\repos\3.TaskQuiz\3.TaskQuiz\bin\Debug\net8.0\3.TaskQuiz.pdb
+C:\Users\ASUS\source\repos\3.TaskQuiz\3.TaskQuiz\obj\Debug\net8.0\3.TaskQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\3.TaskQuiz\3.TaskQuiz\obj\Debug\net8.0\3.TaskQuiz.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\3.TaskQuiz\3.TaskQuiz\obj\Debug\net8.0\3.TaskQuiz.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\3.TaskQuiz\3.TaskQuiz\obj\Debug\net8.0\3.TaskQuiz.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\3.TaskQuiz\3.TaskQuiz\obj\Debug\net8.0\3.TaskQuiz.dll
+C:\Users\ASUS\source\repos\3.TaskQuiz\3.TaskQuiz\obj\Debug\net8.0\refint\3.TaskQuiz.dll
+C:\Users\ASUS\source\repos\3.TaskQuiz\3.TaskQuiz\obj\Debug\net8.0\3.TaskQuiz.pdb
+C:\Users\ASUS\source\repos\3.TaskQuiz\3.TaskQuiz\obj\Debug\net8.0\3.TaskQuiz.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\3.TaskQuiz\3.TaskQuiz\obj\Debug\net8.0\ref\3.TaskQuiz.dll
